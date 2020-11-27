@@ -1,0 +1,22 @@
+.btn{
+    width: 200px;
+    height: 200px;
+    background-color: #bfc4c8;
+    margin: 2px;
+
+}
+#main{
+
+    width: 1015px;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.grey{
+    background-color: #1f1c1c;
+    width: 20px;
+    height: 20px;
+}
+
