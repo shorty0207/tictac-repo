@@ -1,17 +1,18 @@
-.btn{
-    width: 200px;
-    height: 200px;
+span{
+    width: 150px;
+    height: 150px;
     background-color: #bfc4c8;
     margin: 2px;
 
 }
-#main{
+.container{
 
     width: 1015px;
-    height: 600px;
+    height: 450px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    background-color: none !important;
 
 }
 .grey{
